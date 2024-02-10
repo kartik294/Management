@@ -14,7 +14,7 @@ Before you begin, ensure you have met the following requirements:
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/Daniel0402abera/course_management_system.git
+    git clone git remote set-url origin https://github.com/kartik294/Management.git
     cd course_management_system
     ```
 
